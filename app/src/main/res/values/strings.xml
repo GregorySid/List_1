@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">shopping list</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="fragment_four">Корзина</string>
+    <string name="title_plus">Добавить</string>
+    <string name="dash_name">Наименование</string>
+    <string name="time">Время</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="channel_name">Напоминание</string>
+</resources>
